@@ -1,0 +1,9 @@
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\bin\Release\netstandard2.0\ProcMgt_Reference_Core.deps.json
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\bin\Release\netstandard2.0\ProcMgt_Reference_Core.dll
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\bin\Release\netstandard2.0\ProcMgt_Reference_Core.pdb
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.csprojAssemblyReference.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.csproj.CoreCompileInputs.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.AssemblyInfoInputs.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.AssemblyInfo.cs
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.dll
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgt_Reference_Core\obj\Release\netstandard2.0\ProcMgt_Reference_Core.pdb

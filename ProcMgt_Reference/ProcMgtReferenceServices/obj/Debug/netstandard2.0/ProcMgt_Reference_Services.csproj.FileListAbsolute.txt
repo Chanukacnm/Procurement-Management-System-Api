@@ -1,0 +1,12 @@
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\bin\Debug\netstandard2.0\ProcMgt_Reference_Services.deps.json
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\bin\Debug\netstandard2.0\ProcMgt_Reference_Services.dll
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\bin\Debug\netstandard2.0\ProcMgt_Reference_Services.pdb
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\bin\Debug\netstandard2.0\ProcMgt_Reference_Core.dll
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\bin\Debug\netstandard2.0\ProcMgt_Reference_Core.pdb
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.csprojAssemblyReference.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.csproj.CoreCompileInputs.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.AssemblyInfoInputs.cache
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.AssemblyInfo.cs
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.csproj.CopyComplete
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.dll
+E:\CICRA\ProcurementMgtServices\ProcMgt_Reference\ProcMgtReferenceServices\obj\Debug\netstandard2.0\ProcMgt_Reference_Services.pdb

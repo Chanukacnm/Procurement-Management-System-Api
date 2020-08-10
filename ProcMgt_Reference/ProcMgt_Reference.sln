@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcMgt_Reference", "ProcMgt_Reference\ProcMgt_Reference.csproj", "{5E4998E8-61C8-471D-967F-87A92B1627C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcMgt_Reference_Core", "ProcMgt_Reference_Core\ProcMgt_Reference_Core.csproj", "{D9649D19-3227-4588-BD59-71357CFF8BA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcMgt_Reference_Infrastructure", "ProcMgt_Reference_Infrastructure\ProcMgt_Reference_Infrastructure.csproj", "{9228AACB-E116-459E-97FA-D99D3B254CB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcMgt_Reference_Services", "ProcMgtReferenceServices\ProcMgt_Reference_Services.csproj", "{5B61F823-447B-435B-AFA8-967DBCA5B6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4998E8-61C8-471D-967F-87A92B1627C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4998E8-61C8-471D-967F-87A92B1627C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4998E8-61C8-471D-967F-87A92B1627C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4998E8-61C8-471D-967F-87A92B1627C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9649D19-3227-4588-BD59-71357CFF8BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9649D19-3227-4588-BD59-71357CFF8BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9649D19-3227-4588-BD59-71357CFF8BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9649D19-3227-4588-BD59-71357CFF8BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9228AACB-E116-459E-97FA-D99D3B254CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9228AACB-E116-459E-97FA-D99D3B254CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9228AACB-E116-459E-97FA-D99D3B254CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9228AACB-E116-459E-97FA-D99D3B254CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B61F823-447B-435B-AFA8-967DBCA5B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B61F823-447B-435B-AFA8-967DBCA5B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B61F823-447B-435B-AFA8-967DBCA5B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B61F823-447B-435B-AFA8-967DBCA5B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD30945-33C1-412C-BF5F-2413A7ECF59F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://astro:9999/tfs/hrmenterprise2010collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProcMgt_Reference\\ProcMgt_Reference.csproj
+		SccProjectName1 = ProcMgt_Reference
+		SccLocalPath1 = ProcMgt_Reference
+		SccProjectUniqueName2 = ProcMgt_Reference_Core\\ProcMgt_Reference_Core.csproj
+		SccProjectName2 = ProcMgt_Reference_Core
+		SccLocalPath2 = ProcMgt_Reference_Core
+		SccProjectUniqueName3 = ProcMgt_Reference_Infrastructure\\ProcMgt_Reference_Infrastructure.csproj
+		SccProjectName3 = ProcMgt_Reference_Infrastructure
+		SccLocalPath3 = ProcMgt_Reference_Infrastructure
+		SccProjectUniqueName4 = ProcMgtReferenceServices\\ProcMgt_Reference_Services.csproj
+		SccProjectName4 = ProcMgtReferenceServices
+		SccLocalPath4 = ProcMgtReferenceServices
+	EndGlobalSection
+EndGlobal
